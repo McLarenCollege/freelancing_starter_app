@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
           fontFamily: 'Varela',
           ),
       home: HomeScreen(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
